@@ -1,0 +1,2 @@
+# hashText
+hash your text
